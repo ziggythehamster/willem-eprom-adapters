@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Conn_02x12_TSOP48_29F0xx_Left
+D Left side 2x12 connector to the TSOP48 ZIF board for 29F0xx ROMs
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_02x12_TSOP48_29F0xx_Right
+D Right side 2x12 connector to the TSOP48 ZIF board for 29F0xx ROMs
+K connector
+F ~
+$ENDCMP
+#
 $CMP Conn_02x12_TSOP48_Left
 D Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
